@@ -1,0 +1,73 @@
+
+h1 {
+    font-family: prestige-elite-std,monospace;
+    font-weight: 700;
+    font-style: normal;
+    font-size:40px;
+    text-align: center;
+}
+
+h2 {
+    font-family: prestige-elite-std,monospace;
+    font-weight: 700;
+    font-style: normal;
+    font-size:35px;
+    text-align: center;
+}
+
+div {
+    font-family: prestige-elite-std,monospace;
+    font-weight: 400;
+    font-style: normal;
+    font-size:22px
+}
+.scene {
+    font-family: prestige-elite-std,monospace;
+    font-weight: 700;
+    font-style: italic;
+    font-size:30px
+}
+
+hr.dotted {
+        border-top: 3px dotted #bbb;}
+
+.pv {
+    
+    color:steelblue
+}
+
+.db {
+    color:olivedrab
+}
+
+.m {
+    color:darkgoldenrod
+}
+
+.rd {
+    color:sienna
+}
+
+.es {
+    color:darkslateblue
+}
+
+.wz {
+    color:indianred
+}
+
+body {
+    background-color: honeydew;
+    padding-bottom: 100px;
+}
+
+main div {
+    padding-left: 150px;
+    padding-right: 100px;
+}
+
+span {
+    font-family: prestige-elite-std,monospace;
+    font-weight: 400;
+    font-style: italic;
+}
