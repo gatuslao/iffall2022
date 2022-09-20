@@ -1,0 +1,105 @@
+html {
+    background-color: rgb(253, 240, 224);
+    color: rgb(75, 52, 13);
+    font-size: 28px;
+    margin-left: 2em;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 0.1em;
+}
+
+p {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.sanserif {
+    font-family: sans-serif;
+}
+
+section {
+    margin-bottom: 3rem;
+}
+
+h2 {
+    font-family: sans-serif;
+    color: rgb(115, 102, 83);
+    font-size: 1rem;
+    margin-top: 0;
+    margin-bottom: -0.5em;
+}
+
+h3 {
+    font-family: sans-serif;
+    font-weight: normal;
+    color: rgb(173, 153, 127);
+    font-size: 0.75rem;
+    margin-top: 1.75em;
+    margin-bottom: 0.2em;
+}
+
+.Crim {
+    font-family: 'Crimson Text', serif;
+}
+
+.wnormal {
+    font-weight: normal;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.snormal {
+    font-style: normal;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.lsnormal {
+    letter-spacing: normal;
+}
+
+.ls03 {
+    letter-spacing: 0.3em;
+}
+
+.ls06 {
+    letter-spacing: -0.06em;
+}
+
+.tdnone {
+    text-decoration: none;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.line-through {
+    text-decoration: line-through;
+}
+
+.overline {
+    text-decoration: overline;
+}
+
+.ttnone {
+    text-transform: none;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
