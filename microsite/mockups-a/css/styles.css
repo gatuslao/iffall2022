@@ -1,0 +1,24 @@
+body {
+    margin-left: 10%
+}
+
+h1 {
+   padding-top: 2%;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 100%;
+    padding: 0;
+}
+
+.size-desk {
+   width: 85%;
+}
+
+.size-mobile {
+    width:18%;
+}
